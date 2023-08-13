@@ -4,7 +4,7 @@ Hi 👋 My name is Burak Kamilcelebi
 I am a Frontend Developer 
 ------------------------------------------
 
-I have a MSc in International Procurement and Supply Management along with a HDip in Software Development.
+I have an MSc in International Procurement and Supply Management along with a HDip in Software Development.
 
 * 🌍  I'm based in Dublin City, Ireland
 * 🖥️  See my portfolio at [here](https://bkcelebi.github.io/portfolio/)
