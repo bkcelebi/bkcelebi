@@ -1,7 +1,7 @@
 Hi 👋 My name is Burak Kamilcelebi
 ==================================
 
-Frontend Developer and Senior Risk Analyst
+I am a Frontend Developer 
 ------------------------------------------
 
 I have a MSc in International Procurement and Supply Management along with a HDip in Software Development.
@@ -11,14 +11,23 @@ I have a MSc in International Procurement and Supply Management along with a HDi
 * ✉️  You can contact me at [burakkamilcelebi@gmail.com](mailto:burakkamilcelebi@gmail.com)
 * 🚀  I'm currently working on [The Odin Project](https://www.theodinproject.com/)
 * 🧠  I'm learning React and Node.Js
-</br>
 
 ### Skills
 
 <p align="left">
-![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/a9d1635f-9137-4c41-829c-a923a68b276d) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/0863a236-8b92-4d7a-8de8-5c1d658a02ae) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/82eda474-e300-4774-ad47-a3f0e8ed74cd) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/2cba6f74-858b-43da-89d6-d6dca37bb999)
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" /> 
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="32" height="32" /> 
+
+
+
 </p>
-</br>
 
 
 ### Socials
@@ -42,12 +51,9 @@ I have a MSc in International Procurement and Supply Management along with a HDi
     </picture> 
   </a>
 </p>
-</br>
 
 
 ### My GitHub Stats
 
 <a href="https://github.com/bkcelebi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkcelebi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/bkcelebi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bkcelebi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-</br>
