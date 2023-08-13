@@ -16,7 +16,10 @@ I have a MSc in International Procurement and Supply Management along with a HDi
 
 
 <p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/a9d1635f-9137-4c41-829c-a923a68b276d) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/0863a236-8b92-4d7a-8de8-5c1d658a02ae) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/82eda474-e300-4774-ad47-a3f0e8ed74cd) ![image](https://github.com/bkcelebi/bkcelebi/assets/98746081/2cba6f74-858b-43da-89d6-d6dca37bb999)
+
+
+
 </p>
 
 
