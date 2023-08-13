@@ -24,32 +24,19 @@ I have a MSc in International Procurement and Supply Management along with a HDi
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="32" height="32" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="32" height="32" /> 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="32" height="32" /> 
-
-
-
 </p>
 
 
 ### Socials
 
-<p align="left"> 
-  <a href="https://discord.com/users/KC_dev#3465" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
-    </picture> 
-  </a> <a href="https://www.github.com/bkcelebi" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
+<p align="left">
   <a href="https://www.linkedin.com/in/burak-kamilcelebi/" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
+    <img src="https://pbs.twimg.com/profile_images/1661161645857710081/6WtDIesg_400x400.png" width="32" height="32" /> 
   </a>
+  <a href="https://discord.com/users/KC_dev#3465" target="_blank" rel="noreferrer">
+    <img src="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" width="32" height="32"/>
+  </a> 
+  
 </p>
 
 
