@@ -84,7 +84,8 @@ My name is Burak and I'm a Frontend Developer who loves to work with JavaScript 
       height="48"
       alt="Git"
     />
-    <br /><strong>Git</strong>    
+    <br /><strong>Git</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" height="108" width="108">
