@@ -1,7 +1,7 @@
 Hi there! 👋
 ==================================
 
-My name is Burak and I'm a Frontend Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Frontend Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+My name is Burak and I'm a Frontend Developer who loves to work with JavaScript. Right now my mind is focused on learning everything that is related to Frontend Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
 
 <a href="https://www.linkedin.com/in/burak-kamilcelebi/" target="_blank" rel="noreferrer"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
